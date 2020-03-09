@@ -1,1 +1,1 @@
-asdasdasddd
+print('hello')
